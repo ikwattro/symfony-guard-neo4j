@@ -1,4 +1,7 @@
 {
+    "clue/stream-filter": {
+        "version": "v1.4.0"
+    },
     "doctrine/annotations": {
         "version": "1.0",
         "recipe": {
@@ -71,17 +74,65 @@
     "fig/link-util": {
         "version": "1.0.0"
     },
+    "graphaware/neo4j-bolt": {
+        "version": "1.11.0"
+    },
+    "graphaware/neo4j-common": {
+        "version": "3.5.0"
+    },
+    "graphaware/neo4j-php-client": {
+        "version": "4.8.4"
+    },
+    "graphaware/neo4j-php-ogm": {
+        "version": "1.0.0-rc10"
+    },
+    "guzzlehttp/guzzle": {
+        "version": "6.3.3"
+    },
+    "guzzlehttp/promises": {
+        "version": "v1.3.1"
+    },
+    "guzzlehttp/psr7": {
+        "version": "1.4.2"
+    },
     "jdorn/sql-formatter": {
         "version": "v1.2.17"
     },
     "monolog/monolog": {
         "version": "1.23.0"
     },
+    "myclabs/php-enum": {
+        "version": "1.6.0"
+    },
+    "neo4j/neo4j-bundle": {
+        "version": "0.4.1"
+    },
     "nikic/php-parser": {
         "version": "v4.0.1"
     },
     "ocramius/proxy-manager": {
         "version": "2.1.1"
+    },
+    "php-http/client-common": {
+        "version": "1.7.0"
+    },
+    "php-http/discovery": {
+        "version": "1.4.0"
+    },
+    "php-http/guzzle6-adapter": {
+        "version": "v1.1.1"
+    },
+    "php-http/httplug": {
+        "version": "v1.1.0"
+    },
+    "php-http/message": {
+        "version": "1.6.0"
+    },
+    "php-http/message-factory": {
+        "version": "v1.0.2"
+    },
+    "php-http/promise": {
+        "version": "v1.0.0"
     },
     "phpdocumentor/reflection-common": {
         "version": "1.0.1"
@@ -97,6 +148,9 @@
     },
     "psr/container": {
         "version": "1.0.0"
+    },
+    "psr/http-message": {
+        "version": "1.0.1"
     },
     "psr/link": {
         "version": "1.0.0"
